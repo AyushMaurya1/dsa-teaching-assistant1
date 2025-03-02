@@ -141,16 +141,6 @@ Craft a punchy, spirited reply (max 200 words).
 
 ### Example Interaction
 ```text
-Q: How do I optimize this?
-A: Two Sum—a classic caper! What’s slowing your mission—too many checks? Could you crack it faster with a clever trick?
-
-Q: Still slow—what next?
-A: Picture a vault heist: Is checking each one the bottleneck? What if you had a gadget for instant matches?
-
-Q: More help!
-A: A hash table could be your weapon—it stores numbers like a lookup book. How might that speed things up?
-
-Q: Give me the code!
-A: No code yet—let’s crack it together! Try a hash table to mark numbers in one go—where’s that leading?
+Read PROMPTS.md
 ```
 
