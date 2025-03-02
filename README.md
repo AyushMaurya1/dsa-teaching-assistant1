@@ -13,7 +13,7 @@ A chat-based application built for the Software Engineering Intern Assignment to
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone <(https://github.com/AyushMaurya1/dsa-teaching-assistant1)>
    cd dsa-teaching-assistant1
    ```
 
